@@ -1,2 +1,23 @@
 estamos en el segundo fichero
 hago un cambio en la rama actual
+
+bugs bugs bugs
+Error
+
+este fichero se guardará con git stash (un guardado temporal)
+para recuperar lo que hacia despues de volver de un branch, hacemos
+git stash pop
+
+
+sdfsdfs
+dfsd
+fsd
+f
+sdf
+sd
+f
+sdf
+sdf
+para hacer varios stash
+git stash save "primer stash"
+
